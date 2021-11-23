@@ -1,7 +1,7 @@
 ## Hi! I'm Kaiky
 
 - 🔗 Tech student (High school)
-- ⋰·⋰ Cryptocurrency enthusiast (Nano and Bitcoin)
+- ⋰·⋰ Cryptocurrency enthusiast
 - Linking Developer
 
 <div>
