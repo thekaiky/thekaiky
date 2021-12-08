@@ -1,8 +1,6 @@
 ## Hi! I'm Kaiky
 
-- 🔗 Tech student (High school)
-- ⋰·⋰ Cryptocurrency enthusiast
-- Linking Developer
+- Cryptocurrency and Linux enthusiast
 
 <div>
   <a href="https://beacons.ai/thekaiky">
@@ -10,10 +8,7 @@
 </div>
  <br>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Kaiky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaiky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kaiky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kaiky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<!--   <img align="center" alt="Kaiky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
 </div>
 <br>
 <br>
