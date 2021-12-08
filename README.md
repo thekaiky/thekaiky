@@ -10,8 +10,6 @@
   <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Kaiky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
 </div>
-<br>
-<br>
 <div>
   <a href="https://instagram.com/thekaiky" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaikynetto2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
