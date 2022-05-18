@@ -1,6 +1,6 @@
 ## Hi! I'm Kaiky
 
-- Cryptocurrency and Linux enthusiast
+- Bitcoin and Linux enthusiast
 
 <div>
   <a href="https://beacons.ai/thekaiky">
